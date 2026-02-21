@@ -2,8 +2,9 @@ This is a console-based Loan Management System developed using C++. The project 
 
 The system allows users to manage loans between people, track transactions, calculate fines, and view financial summaries.
 
-✨ Features
-👤 User Management
+>> Features<<
+
+ User Management
 
 Add user
 
@@ -15,7 +16,7 @@ Search user
 
 List all active users
 
-💰 Loan Operations
+>Loan Operations
 
 Borrow money between users
 
@@ -23,7 +24,7 @@ Return loans with fine calculation
 
 Transfer loans between users
 
-📊 Transaction Tracking
+>Transaction Tracking
 
 View account summary
 
@@ -31,7 +32,7 @@ View transactions between two users
 
 System-wide financial summary
 
-🏗️ Data Structures Used
+> Data Structures Used
 
 Binary Search Tree (BST) → User management
 
@@ -39,7 +40,7 @@ Singly Linked List → Transactions storage
 
 Dynamic Memory Allocation → Pointer-based memory handling
 
-🛠️ Technologies Used
+>Technologies Used
 
 C++
 
