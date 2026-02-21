@@ -2,7 +2,7 @@ This is a console-based Loan Management System developed using C++. The project 
 
 The system allows users to manage loans between people, track transactions, calculate fines, and view financial summaries.
 
->> Features<<
+>> Features
 
  User Management
 
